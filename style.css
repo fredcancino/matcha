@@ -1,0 +1,26 @@
+body {
+    background: color fffbf 7;
+}
+h1 {
+    color: #025157;
+    font-family: "Alegreya", serif;
+    font-size: 60px;
+    margin-bottom: 24px;
+    text-align:center
+}
+form, h4, p, h1 {
+    text-align:center;
+}
+
+p {
+    color: #8b8b8bcc;
+    margin-top: 15px;
+}
+input {
+    border-radius: 10px;
+    padding: 10px;
+    border: solid 1px
+    height: 30px;
+    margin: 30px;
+}
+
